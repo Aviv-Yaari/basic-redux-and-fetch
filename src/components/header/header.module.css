@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: teal;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.logo {
+  text-decoration: none;
+  color: white;
+}
+
+.navlinks {
+  margin-left: auto;
+}
+.navlinks .navlink {
+  padding-right: 10px;
+  text-decoration: none;
+  color: white;
+}
+.navlinks .navlinkselected {
+  padding-right: 10px;
+  text-decoration: none;
+  color: saddlebrown;
+}
